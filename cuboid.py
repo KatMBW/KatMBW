@@ -1,0 +1,5 @@
+height = float(input("Enter the height of the cubiod: "))
+width = float(input("Enter the width of the cubiod: "))
+depth = float(input("Enter the depth of the cubiod: "))
+volume = (height * width * depth)
+print("The volume of the cuboid is", volume, "cubic units")
