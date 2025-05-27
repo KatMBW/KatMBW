@@ -1,0 +1,14 @@
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\obj\Debug\net8.0\InchesToCentimetersInteractive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\obj\Debug\net8.0\InchesToCentimetersInteractive.AssemblyInfoInputs.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\obj\Debug\net8.0\InchesToCentimetersInteractive.AssemblyInfo.cs
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\obj\Debug\net8.0\InchesToCentimetersInteractive.csproj.CoreCompileInputs.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\bin\Debug\net8.0\InchesToCentimetersInteractive.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\bin\Debug\net8.0\InchesToCentimetersInteractive.deps.json
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\bin\Debug\net8.0\InchesToCentimetersInteractive.runtimeconfig.json
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\bin\Debug\net8.0\InchesToCentimetersInteractive.dll
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\bin\Debug\net8.0\InchesToCentimetersInteractive.pdb
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\obj\Debug\net8.0\InchesToCentimetersInteractive.dll
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\obj\Debug\net8.0\refint\InchesToCentimetersInteractive.dll
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\obj\Debug\net8.0\InchesToCentimetersInteractive.pdb
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\obj\Debug\net8.0\InchesToCentimetersInteractive.genruntimeconfig.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\InchesToCentimetersInteractive\obj\Debug\net8.0\ref\InchesToCentimetersInteractive.dll
