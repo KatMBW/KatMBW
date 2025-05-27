@@ -1,0 +1,23 @@
+Order Summary
+========================================
+Items Ordered:
+- T-Shirt: Quantity = 2, Design = Supernatural, Disney
+- Car Decal: Quantity = 1, Design = Scooby-Doo
+
+Selected Sizes:
+Large, 3XL
+
+Notes/Comments:
+For the 3X T-shirt, I want the supernatural design.
+For the Large T-shirt, I want the Disney design.
+Thank you.
+Shipping Details:
+Street: 123 Test Ln
+City: Franklin
+ZIP: 28734
+
+Order Totals:
+Total: $60.00
+Tax: $4.20
+Shipping: $6.99
+Grand Total: $71.19
