@@ -1,0 +1,374 @@
+/*Styles Sheet for Tada's Gifts*/
+
+/*CSS Reset*/
+
+body, header, nav, main, footer, img, h1, h3, ul {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/*Style rules for header*/
+
+header img {
+	display: block;
+	margin: auto;
+	width: 300px;
+	height: 300px;
+}
+
+/*Style rules for body and images*/
+body {
+	background-color: #b366ff;
+}
+
+img {
+	display: inline;
+	margin: auto 15%;
+	width: 300px;
+	height: 450px;
+}
+
+video {
+	margin: auto;
+	vertical-align: center;
+	display: block;
+	height: 500px;
+	width: 400px;
+}
+
+#about img{
+	width: 800px;
+	height: auto;
+	
+}
+
+#aboutI img{
+	width: 800px;
+	height: auto;
+	
+}
+
+.row{
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 5px;
+}
+
+.column {
+	flex: 25%;
+	max-width: 25%;
+	padding: 0 5px;
+}
+
+.column img {
+	margin-top: 10px;
+	vertical-align: middle;
+	width: 100%;
+}
+
+/*Mobile view for images*/
+@media screen and (max-width: 800px) {
+
+	.column{
+		flex: 50%;
+		max-width: 50%;
+		vertical-align: center;
+	}
+	
+	#about img{
+		max-width: 70%;
+	}
+	
+	#aboutI img{
+		max-width: 70%;
+	}
+}
+
+/*Style rules for navigation area*/
+
+nav {
+	background-color: #8000ff;
+	list-style: none;
+	text-align: center;
+	display: block;
+	margin: Auto 5%
+}
+
+nav a {
+	color: #ffffff;
+	font-size: 2em;
+	padding: 0 3%;
+	border-style: solid;
+	border-color: #6600cc;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+/*Style rules for order form*/
+
+fieldset {
+	
+	margin: 5%
+}
+
+input {
+	
+	
+}
+
+legend {
+	font-size: 2em;
+	color: #ffffff
+}
+
+label {
+	display: block;
+	font-size: 2em;
+	color: #ffffff;
+	
+}
+
+#Submit {
+	margin: 0 auto;
+	display: block;
+	padding: 2%;
+	background-color: #ffffff;
+	color: #6600cc;
+	font-size: 1.25em;
+	border-radius: 10px;
+}
+
+
+/*Style rules to show mobile class and hide tab-desk class*/
+
+.mobile {
+	display: block;
+}
+
+.tablet-desktop {
+	display: none;
+}
+
+/*Style Rules for main area*/
+
+main img{
+	display: block;
+	margin:  auto 25%;
+}
+
+main p{
+	color: #ffffff;
+	font-size: 2em;
+	margin: 3%;
+	font-family: 'Roboto', sans-serif;
+}
+
+main h2, h3{
+	color: #ffffff;
+	text-align: center;
+	font-size: 3em;
+	font-family: 'Roboto', sans-serif;
+}
+
+main h4{
+	color:#ffffff;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size:3em;
+}
+
+#contact{
+	text-align: center;
+	
+}
+
+.link{
+	color: #6600cc;
+	text-decoration: none;
+	font-weight: bold;
+	
+}
+
+.tel-link{
+	background-color: #8000ff;
+    padding: 2%;
+    margin: 0 auto;
+	width: 50%;
+}
+
+.tel-link a{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+ul{
+	list-style-type: square;
+	margin: 3%;
+	
+}
+
+li{
+	font-size: 2em;
+	color: #ffffff;
+	
+}
+
+.Note{
+	background-color: #6600cc;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+hr{
+	border: 2px solid #8000ff;
+	
+}
+
+/* Style rules for footer area */
+
+footer {
+	text-align: center;
+	font-size: 1em;
+	background-color: #6600cc;
+	color: #ffffff;
+	padding: 1% 0%;
+	font-style: oblique;
+}
+
+footer a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+/*Media Query for Tablet Viewport*/
+
+@media all and (min-width: 620px) {
+	
+	/*Tablet Viewport: Style rule for form element*/
+	
+	form {
+		width: 70%;
+		margin: 0 auto;
+	}
+
+	/*Tablet Viewport: Show tab-desk class, hide mobile class*/
+
+	.tablet-desktop{
+		display: block;
+	}
+	
+	.mobile{
+		display: none;
+	}
+	
+
+	/*Tablet Viewport: Style rules for nav area*/
+
+	nav li{
+		display: inline-block;
+		font-size: 1.25em;
+	}
+	
+	nav li a{
+		padding: 0.5em;
+	}
+
+	
+}
+
+/*Media Query for Desktop viewport*/
+
+@media all and (min-width: 1000px) {
+	
+	/*Desktop Viewport: Style rule for form element*/
+	
+	form {
+		width: auto;
+	}
+	
+	.form-grid {
+		display: grid;
+		grid-template-columns: auto auto;
+		grid-gap: 20px;
+	}
+	
+	.btn {
+		grid-column: 1/span 2;
+	}
+	
+	/*Desktop Viewport: Show desktop class, hide mobile-tablet class*/
+	
+	.desktop {
+		display: block;
+	}
+	
+	.mobile-tablet {
+		display: none;
+	}
+	
+	/*Desktop Viewport: Style rules for nav area*/
+	
+	nav li{
+		font-size: 1.5em;
+	}
+	
+	nav li a{
+		padding: 0.5em 1.5em;
+	}
+	
+	nav li a:hover{
+		color: #2a1f14;
+		background-color: #f6eee4;
+		opacity: 0.5;
+	}
+	
+	/*Desktop Viewport: Style rules for main content*/
+	
+	#info ul{
+		margin-left: 5%;
+	}
+	
+	
+}
+
+
+/*Media Query for Large Desktop Viewports*/
+
+@media screen and (min-width: 1921px) {
+
+	body{
+		background-image: linear-gradient(#f6eee4, #78593a);
+	}
+	
+	#wrapper{
+		width:1920px;
+		margin: 0 auto;
+	}
+	
+	main{
+		background-color: #f6eee4;
+	}
+	
+	.grid{
+		grid-template-columns: auto auto auto auto;
+	}
+	
+	aside{
+		grid-column: 1/span 4;
+		font-size:3em;
+	}
+	
+}
+
+/*Media Query for Print*/
+
+@media print {
+
+	body{
+		background-color: white;
+		color: black;
+	}
+	
+}
