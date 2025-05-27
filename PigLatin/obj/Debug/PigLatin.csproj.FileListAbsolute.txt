@@ -1,0 +1,10 @@
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PigLatin\bin\Debug\PigLatin.exe.config
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PigLatin\bin\Debug\PigLatin.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PigLatin\bin\Debug\PigLatin.pdb
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PigLatin\obj\Debug\PigLatin.csproj.AssemblyReference.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PigLatin\obj\Debug\PigLatin.Form1.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PigLatin\obj\Debug\PigLatin.Properties.Resources.resources
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PigLatin\obj\Debug\PigLatin.csproj.GenerateResource.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PigLatin\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PigLatin\obj\Debug\PigLatin.exe
+C:\Users\katly\Documents\Education\2024\Spring\CIS-115\PigLatin\obj\Debug\PigLatin.pdb
